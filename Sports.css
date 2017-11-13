@@ -1,0 +1,52 @@
+body {
+  text-align: justify;
+  background-image: url(Sports_background_top.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position: top;
+}
+
+h1 {
+  font-size: 110px;
+  text-align: center;
+  margin-bottom: auto;
+  letter-spacing: 10px;
+
+}
+
+h1, h2{
+  font-family: Impact;
+}
+
+h2{
+  font-size: 70px;
+  color: #AB050A;
+  margin-left: 100px;
+  margin-bottom: 30px;
+}
+strong{
+  margin-left: 100px;
+  font-size: 20px;
+  font-family: Sans-serif;
+  word-wrap: normal;
+}
+
+li{
+  margin-left: 120px;
+  line-height: 20px;
+}
+
+p{
+  margin-left: 100px;
+  word-wrap: normal;
+  line-height: 15px;
+}
+
+p, li{
+  font-size: 17px;
+  font-family: Sans-serif;
+}
+
+img{
+  margin: auto;
+}
